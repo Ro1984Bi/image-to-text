@@ -8,7 +8,7 @@ class Config(object):
 
     basedir = os.path.abspath(os.path.dirname(__file__))
 
-    SECRET_KEY = 'first-coding-job'
+    SECRET_KEY = 'rodev'
 
     UPLOADS = "C:/Users/bilba/Desktop/image-to-text/app/static/uploads"
 
